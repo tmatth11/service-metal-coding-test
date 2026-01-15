@@ -8,9 +8,11 @@ URL Used: https://www.pvcfittingsonline.com/collections/pvc-gate-valves/products
 
 ## Instructions
 
-1. Create schema named `product_details`.
+1. Connect to your local MySQL server.
 
-2. Execute the following query:
+2. Create a schema named `product_details`.
+
+3. Execute the following query:
 ```sql
 -- Main product display
 CREATE TABLE products (
