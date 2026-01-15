@@ -16,7 +16,7 @@ python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
 
-3. Install all dependencies from requirements.txt using this command:
+3. Install all dependencies from `requirements.txt` using this command:
 ```bash
 pip install -r requirements.txt
 ```
