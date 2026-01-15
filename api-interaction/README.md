@@ -1,4 +1,4 @@
-# 2 - Database Design
+# 2 - API Interaction
 
 ## Prerequisites
 
