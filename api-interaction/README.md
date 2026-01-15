@@ -6,22 +6,27 @@
 
 ## Instructions
 
-1. Create a virtual environment using this command:
+1. Navigate to this directory using this command:
+```bash
+cd api-interaction
+```
+
+2. Create a virtual environment using this command:
 ```bash
 python -m venv .venv
 ```
 
-2. Activate the virtual environment using this command:
+3. Activate the virtual environment using this command:
 ```bash
 .venv\Scripts\Activate.ps1
 ```
 
-3. Install all dependencies from `requirements.txt` using this command:
+4. Install all dependencies from `requirements.txt` using this command:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Run the main.py program using this command:
+5. Run the main.py program using this command:
 ```
 python main.py
 ```
